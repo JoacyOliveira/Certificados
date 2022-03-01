@@ -5,7 +5,6 @@
 # Certificações
 Todas minhas certificações de cursos (+EaDs e Eventos);  
 Clique nas setas (**⮚**) para conferir o certificado/comprovante;  
-As bandeiras ![][iUS] representam cursos no idioma Inglês.
 
 ## 🏛 Acadêmico / Científico
 | Órgão emissor          | Certificação                                                      | Data                       |
@@ -20,7 +19,14 @@ As bandeiras ![][iUS] representam cursos no idioma Inglês.
 
 | Órgão emissor      | Curso                                                            | Carga horária      | Avaliação Pessoal |
 | ------------------ | ---------------------------------------------------------------- | ------------------ | ----------------- |
-|  DEVMEDIA | ![][2] **Python e Django**                       [⮚][6]  | 13 Horas           | ![][nota8]        |
+|  DEVMEDIA | ![][2] **Python e Django**                       [⮚][2]  | 13 Horas           | ![][nota8]        |
+|  DEVMEDIA | ![][2] **Preparando o ambiente para Python com Django**                       [⮚][3]  | 4 Horas           | ![][nota8]        |
+|  Diego Mariano | ![][2] **Introdução ao banco de dados MYSQL**                       [⮚][4]  | 30 Minutos           | ![][nota8]        |
+|  DEVMEDIA | ![][2] **Curso Python**                       [⮚][5]  | 11 Horas           | ![][nota8]        |
+|  DEVMEDIA | ![][2] **Django admin: criando aplicação web completa**                       [⮚][6]  | 16 Horas           | ![][nota8]        |
+|  Udemy | ![][2] **Django 2.0 Avanado**                       [⮚][7]  | 18 Horas           | ![][nota8]        |
+|  DEVMEDIA | ![][2] **Introdução ao Django Admin**                       [⮚][8]  | 13 Horas           | ![][nota8]        |
+|  Udemy | ![][2] **Django with Chart JS**                       [⮚][9]  | 2.5 Horas           | ![][nota8]        |
 
 
 ## 🎲 Outros
