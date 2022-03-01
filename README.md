@@ -20,25 +20,8 @@ As bandeiras ![][iUS] representam cursos no idioma Inglês.
 
 | Órgão emissor      | Curso                                                            | Carga horária      | Avaliação Pessoal |
 | ------------------ | ---------------------------------------------------------------- | ------------------ | ----------------- |
-| ![][sTW] TreinaWeb | ![][i06] **Lógica de Programação**                       [⮚][6]  | 34 Horas           | ![][nota8]        |
-| ![][sTW] TreinaWeb | ![][i07] **Lógica de Orientação a Objetos**              [⮚][7]  | 24 Horas           | ![][nota9]        |
-| ![][sTW] TreinaWeb | ![][i40] **Git e GitHub - Controle de versão**           [⮚][40] | 22 Horas           | ![][nota10]       |
-| ![][sTW] TreinaWeb | ![][i08] **HTML5 e CSS3 - Web Básico**                   [⮚][8]  | 34 Horas           | ![][nota8]        |
-| ![][sTW] TreinaWeb | ![][i09] **HTML5 e CSS3 - Web Avançado**                 [⮚][9]  | 34 Horas           | ![][nota8]        |
-| ![][sSL] SoloLearn | ![][i10] **JavaScript** ![][iUS]                         [⮚][10] | *indefinido*       | ![][nota5]        |
-| ![][sTW] TreinaWeb | ![][i11] **JavaScript Básico**                           [⮚][11] | 34 Horas           | ![][nota7]        |
-| ![][sTW] TreinaWeb | ![][i12] **JavaScript Intermediário**                    [⮚][12] | 22 Horas           | ![][nota10]       |
-| ![][sTW] TreinaWeb | ![][i19] **JavaScript Avançado**                         [⮚][19] | 16 Horas           | ![][nota9]        |
-| ![][sSL] SoloLearn | ![][i13] **Java** ![][iUS]                               [⮚][13] | *indefinido*       | ![][nota5]        |
-| ![][sCV] CEV       | ![][i14] **Java**                                        [⮚][14] | 40 Horas / Aula    | ![][nota9]        |
-| ![][sTW] TreinaWeb | ![][i15] **Java 10 - Orientação a Objetos**              [⮚][15] | 22 Horas           | ![][nota10]       |
-| ![][sSL] SoloLearn | ![][i20] **Python 3** ![][iUS]                           [⮚][20] | *indefinido*       | ![][nota8]        |
-| ![][sMS] MVA       | ![][i16] **Office 365**                                  [⮚][16] | 1 Hora             | ![][nota5]        |
-| ![][sCD] C O D E   | ![][i17] **Basic Concepts of Computer Science** ![][iUS] [⮚][17] | 1 Hora             | ![][nota2]        |
-| ![][sTW] TreinaWeb | ![][i18] **RegEx - Expressões Regulares**                [⮚][18] | 16 Horas           | ![][nota7]        |
-| ![][sTW] TreinaWeb | ![][i38] **NPM - Gerenciador de Pacotes**                [⮚][38] | 8 Horas            | ![][nota8]        |
-| ![][sTW] TreinaWeb | ![][i39] **UI/UX - Introdução**                          [⮚][39] | 10 Horas           | ![][nota8]        |
-| ![][sTW] TreinaWeb | ![][i41] **CSS - Sass**                                  [⮚][41] | 6 Horas            | ![][nota10]       |
+| ![][sTW] DEVMEDIA | ![][2] **Python e Django**                       [⮚][6]  | 13 Horas           | ![][nota8]        |
+
 
 ## 🎲 Outros
 | Organização     | Nome                                                       | Descrição                                                                | Ano  |
