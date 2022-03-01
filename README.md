@@ -10,7 +10,7 @@ As bandeiras ![][iUS] representam cursos no idioma Inglês.
 ## 🏛 Acadêmico / Científico
 | Órgão emissor          | Certificação                                                      | Data                       |
 | ---------------------- | ----------------------------------------------------------------- | -------------------------- |
-| ![][sUN] UNIVAP        | **Analise e desenvolvimento de sistemas**              [⮚][1]   | 2020-2022                  |
+|  UNIPÊ        | **Analise e desenvolvimento de sistemas**              [⮚][1]   | 2020-2022                  |
 
 
 ## 🎓 Cursos 
@@ -20,7 +20,7 @@ As bandeiras ![][iUS] representam cursos no idioma Inglês.
 
 | Órgão emissor      | Curso                                                            | Carga horária      | Avaliação Pessoal |
 | ------------------ | ---------------------------------------------------------------- | ------------------ | ----------------- |
-| ![][sTW] DEVMEDIA | ![][2] **Python e Django**                       [⮚][6]  | 13 Horas           | ![][nota8]        |
+|  DEVMEDIA | ![][2] **Python e Django**                       [⮚][6]  | 13 Horas           | ![][nota8]        |
 
 
 ## 🎲 Outros
