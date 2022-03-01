@@ -11,12 +11,7 @@ As bandeiras ![][iUS] representam cursos no idioma Inglês.
 | Órgão emissor          | Certificação                                                      | Data                       |
 | ---------------------- | ----------------------------------------------------------------- | -------------------------- |
 | ![][sUN] UNIVAP        | **Aluno Destaque do Curso de Informática**              [⮚][37]   | 2017-2019 (EM)             |
-| ![][sUN] UNIVAP        | **Conclusão do Ensino Médio**                           [⮚][36]   | 16/12/2019                 |
-| ![][sIJ] INICJr        | **Certificado de Participação do Congresso**            [⮚][29]   | 24/10/2019 <br> 25/10/2019 |
-| ![][sIJ] INICJr        | **Codificador de Estruturas Moleculares**               [⮚][31]   | 25/10/2019                 |
-| ![][sIJ] INICJr        | **Aplicação para Correção Automática de Gabaritos**     [⮚][30]   | 24/10/2019                 |
-| ![][sIJ] INIC          | **Neurociência Cognitiva: Hipnose e Sugestionabilidade**[⮚][52]   | 21/10/2020                 |
-| ![][sDG] Duolingo      | **Duolingo Educator Training Program** ![][iUS]         [⮚][32]   | 01/06/2016                 |
+
 
 ## 🎓 Cursos 
 • `Avaliação Pessoal`: ***minha** opinião sobre o curso ou palestra*;   
@@ -45,55 +40,6 @@ As bandeiras ![][iUS] representam cursos no idioma Inglês.
 | ![][sTW] TreinaWeb | ![][i39] **UI/UX - Introdução**                          [⮚][39] | 10 Horas           | ![][nota8]        |
 | ![][sTW] TreinaWeb | ![][i41] **CSS - Sass**                                  [⮚][41] | 6 Horas            | ![][nota10]       |
 
-### 🤖 Eletrônica
-| Órgão emissor           | Curso                                                        | Carga horária | Avaliação Pessoal |
-| ----------------------- | ------------------------------------------------------------ | ------------- | ----------------- |
-| ![][sLU] Lúmina (UFRGS) | ![][i28] **Introdução a Arduino**                   [⮚][28]  | 20 Horas      | ![][nota10]       |
-
-### 🧬 Biomedicina
-| Órgão emissor                                | Curso                                                                                   | Carga horária      | Avaliação Pessoal |
-| -------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------ | ----------------- |
-| ![][sPM] Postgraduate Institute for Medicine | ![][i33] **SBV – Suporte Básico de Vida - CETS** ![][iUS] [Card][33c][⮚][33]            | *indefinido*       | ![][nota9]        |
-| ![][sIJ] INIC 2020                           | ![][i50] **Técnica de Caracterização** - Microscopia Eletrônica de Varredura [⮚][50]    | 2 Horas            | ![][nota8]        |
-| ![][sUE] UNIEURO 2020                        | ![][i45] II Mostra Científica UNIEURO 2020 [⮚][45]                                      | 16 Horas           | ![][nota9]        |
-| ![][sAB] Academia Brasileira de Neurocirurgia| ![][i44] I Simpósio Neuroclínico e Neurocirúrgico do AVE [⮚][44]                        | 12 Horas           | ![][nota9]        |
-| ![][sGV] Conselho Regional de Biomedicina    | ![][i43] **O Biomédico como Neurocientista** - Transplante de células-troncos neurais para regenerar a medula espinhal após trauma [⮚][43]                                                                                                                                            | 2 Horas            | ![][nota10]        |
-| ![][sUN] LANF (UNIVAP)                       | ![][i47] **Liga Acadêmica Neurofuncional**<br> - AVE: Revisão da fisiopatologia [⮚][46]<br> - AVE: Tratamento Fisioterapêutico [⮚][47]<br> - AVE: Sequelas [⮚][48]<br> - Manejo Clínico e Fisioterapêutico da Espasticidade [⮚][49]                      | 2 Horas<br>2 Horas<br>2 Horas<br>3 Horas      | ![][nota10]        |
-
----
-## 🥇 Participações em Competições e Maratonas
-Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas]  
-
-| Organização     | Evento                                 | Certificação (ou Comprovantes)                        | Ano  | Colocação |
-| --------------- | -------------------------------------- | ----------------------------------------------------- | ---- | --------- |
-| ![][sUN] UNIVAP | **Olimpíada de Programação (OPC X)**   | [OPC X - 2017][m1] [[backup][m2]]             +⠀🥉    | 2017 | 5º Lugar  |
-| ![][sUN] UNIVAP | **Olimpíada de Programação (OPC XI)**  | [Certificado][m3]                             +⠀🥈⠀   | 2018 | 2º Lugar  |
-| ![][sUN] UNIVAP | **Olimpíada de Programação (OPC XII)** | [Certificado][m7]                             +⠀🥇🏆   | 2019 | 1º Lugar  |
-| ![][sFE] FEAU   | **Maratona VI Jr.**                    | [Certificado][m4]                             +⠀🥈⠀   | 2017 | 2º Lugar  |
-| ![][sFE] FEAU   | **Maratona VII Jr.**                   | [Ranking - 2018][m5]                                  | 2018 | 10º Lugar |
-| ![][sFE] FEAU   | **Maratona VIII Jr.**                  | [Certificado][m6]                             +⠀🥇⠀   | 2019 | 1º Lugar  |
-
----
-## 💬 Palestras
-  | Organização         | Conteúdo                                                                 | Carga horária | Avaliação Pessoal |
-  | ------------------- | ------------------------------------------------------------------------ | ------------- | ----------------- |
-  | ![][sJG] JugVale    | ![][i02] **Java** - 13º Encontro                                 [⮚][2]  | 8 Horas       | ![][nota9]        |
-  | ![][sJG] JugVale    | ![][i27] **Java** - 14º Encontro                                 [⮚][27] | 8 Horas       | ![][nota10]       |
-  | ![][sFE] FEAU       | ![][i21] **SEAU** - Aprovação de Projetos em SJC                 [⮚][21] | 2 Horas       | ![][nota8]        |
-  | ![][sFE] FEAU       | ![][i22] **SEAU** - Usinagem Aeroespacial                        [⮚][22] | 2 Horas       | ![][nota6]        |
-  | ![][sFE] FEAU       | ![][i23] **SEAU** - Segurança da Informação                      [⮚][23] | 2 Horas       | ![][nota10]       |
-  | ![][sFE] FEAU       | ![][i34] **SEAU** - Interface Física Médica e Medicina Nuclear   [⮚][34] | 2 Horas       | ![][nota9]        |
-  | ![][sRS] Rocketseat | ![][i51] **Do While 2020**                                       [⮚][51] | 16 Horas      | ![][nota9]        |
-
----
-## 📜 Academias e Oficinas
-  | Organização         | Conteúdo                  | Carga horária | Avaliação Pessoal |
-  | ------------------- | ------------------------- | ------------- | ----------------- |
-  | ![][sSG] Saga       | **Modelagem 3D**  [⮚][3]  | 8 Horas       | ![][nota5]        |
-  | ![][sSB] Softblue   | **JAVA**          [⮚][4]  | 12 Horas      | ![][nota9]        |
-  | ![][sSB] Softblue   | **PHP**           [⮚][5]  | 12 horas      | ![][nota10]       |
-   
----
 ## 🎲 Outros
 | Organização     | Nome                                                       | Descrição                                                                | Ano  |
 | --------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------| ---- |
