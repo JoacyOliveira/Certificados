@@ -10,7 +10,7 @@ As bandeiras ![][iUS] representam cursos no idioma Inglês.
 ## 🏛 Acadêmico / Científico
 | Órgão emissor          | Certificação                                                      | Data                       |
 | ---------------------- | ----------------------------------------------------------------- | -------------------------- |
-| ![][sUN] UNIVAP        | **Analise e desenvolvimento de sistemas**              [⮚][1]   | 2020-2022 (EM)             |
+| ![][sUN] UNIVAP        | **Analise e desenvolvimento de sistemas**              [⮚][1]   | 2020-2022                  |
 
 
 ## 🎓 Cursos 
