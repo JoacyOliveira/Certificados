@@ -55,7 +55,7 @@ As bandeiras ![][iUS] representam cursos no idioma Inglês.
 
 <!-- -=- # --- REFERÊNCIAS --- # -=- -->
 <!-- Links/Certificados -->
-[1]: !%20Academico/%20%20Diploma.PDF
+[1]: !Academico/Diploma.PDF
 [2]: !%20Palestras/JugVale%20-%20Java.pdf
 [3]: !%20Academias%20e%20Oficinas/Saga%20-%20Modelagem%203D.pdf
 [4]: !%20Academias%20e%20Oficinas/Softblue%20-%20Java.pdf
