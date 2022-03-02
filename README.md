@@ -66,15 +66,15 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 <!-- -=- # --- REFERÊNCIAS --- # -=- -->
 <!-- Links/Certificados -->
 [1]: Academico/Diploma.PDF
-[2]: Certificados/Acessodadosdjango.png
-[3]: Certificados/
-[4]: Certificados/
-[5]: Certificados/
-[6]: Certificados/
-[7]: Certificados/
-[8]: Certificados/
-[9]: Certificados/
-[10]: Certificados/
+[2]: Cursos/Acessodadosdjango.png
+[3]: Cursos/
+[4]: Cursos/
+[5]: Cursos/
+[6]: Cursos/
+[7]: Cursos/
+[8]: Cursos/
+[9]: Cursos/
+[10]: Cursos/
 
 
 
