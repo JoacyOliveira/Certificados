@@ -25,7 +25,7 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 |  DEVMEDIA |  **Curso Python**                       [⮚][5]  | 11 Horas           | ![][nota8]        |
 |  DEVMEDIA |  **Django admin: criando aplicação web completa**                       [⮚][6]  | 16 Horas           | ![][nota8]        |
 |  Udemy |  **Django 2.0 Avanado**                       [⮚][7]  | 18 Horas           | ![][nota8]        |
-|  DEVMEDIA  **Introdução ao Django Admin**                       [⮚][8]  | 13 Horas           | ![][nota8]        |
+|  DEVMEDIA | **Introdução ao Django Admin**                       [⮚][8]  | 13 Horas           | ![][nota8]        |
 |  Udemy |  **Django with Chart JS**                       [⮚][9]  | 2.5 Horas           | ![][nota8]        |
 |  Udemy |  **Django,React e deploy AWS e linux**                       [⮚][10]  | 5.5 Horas           | ![][nota8]        |
 |  Udemy |  **Poderosas api com Django Rest**                       [⮚][11]  | 7 Horas           | ![][nota8]        |
@@ -38,16 +38,17 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 |  DEVMEDIA |  **Introdução ao CSS na pratica**                       [⮚][18]  | 17 Horas           | ![][nota8]        |
 |  DEVMEDIA |  **Introdução ao CSS na pratica**                       [⮚][19]  | 2 Horas           | ![][nota8]        |
 |  DEVMEDIA |  **Html Basico**                       [⮚][20]  | 13 Horas           | ![][nota8]        |
-|  DEVMEDIA |  **Introdução JavaScript**                       [⮚][21]  | 8 Horas           | ![][nota8]        |
-|  DEVMEDIA |  **Node.Js: Primeiros passos**                       [⮚][22]  | 6 Horas           | ![][nota8]        |
-|  DEVMEDIA |  **Oque é HTML**                       [⮚][23]  | 2 Horas           | ![][nota8]        |
-|  DEVMEDIA |  **Oque é RESTful**                       [⮚][24]  | 3 Horas           | ![][nota8]        |
-|  DEVMEDIA |  **Oque é Django**                       [⮚][25]  | 2 Horas           | ![][nota8]        |
-|  DEVMEDIA |  **Oque é Git**                       [⮚][26]  | 2 Horas           | ![][nota8]        |
-|  DEVMEDIA |  **Oque é MVC**                       [⮚][27]  | 2 Horas           | ![][nota8]        |
-|  DEVMEDIA |  **Oque é Python**                       [⮚][28]  | 2 Horas           | ![][nota8]        |
-|  DEVMEDIA |  **Primeira Aplicação Django**                       [⮚][29]  | 11 Horas           | ![][nota8]        |
-|  DEVMEDIA |  **Oque é Teste Unitario**                       [⮚][30]  | 4 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Fundamentos do Html**                       [⮚][21]  | 7 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Introdução JavaScript**                       [⮚][22]  | 8 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Node.Js: Primeiros passos**                       [⮚][23]  | 6 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Oque é HTML**                       [⮚][24]  | 2 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Oque é RESTful**                       [⮚][25]  | 3 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Oque é Django**                       [⮚][26]  | 2 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Oque é Git**                       [⮚][27]  | 2 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Oque é MVC**                       [⮚][28]  | 2 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Oque é Python**                       [⮚][29]  | 2 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Primeira Aplicação Django**                       [⮚][30]  | 11 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Oque é Teste Unitario**                       [⮚][31]  | 4 Horas           | ![][nota8]        |
 
 
 ## 🎲 Outros
@@ -67,14 +68,37 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 <!-- Links/Certificados -->
 [1]: Academico/Diploma.PDF
 [2]: Cursos/Acessodadosdjango.png
-[3]: Cursos/
-[4]: Cursos/
-[5]: Cursos/
-[6]: Cursos/
-[7]: Cursos/
-[8]: Cursos/
-[9]: Cursos/
-[10]: Cursos/
+[3]: Cursos/AmbientDjango.png
+[4]: Cursos/Bancomysql.pdf
+[5]: Cursos/Cursodepython.png
+[6]: Cursos/DJANGOADMINwebcompleto.png
+[7]: Cursos/Django2.0.pdf
+[8]: Cursos/DjangoAdmin.png
+[9]: Cursos/DjangoChart.pdf
+[10]: Cursos/DjangoReactAWSELINUX.pdf
+[11]: Cursos/DjangoRest.pdf
+[12]: Cursos/Djangoheroku.pdf
+[13]: Cursos/GITHU.pdf
+[14]: Cursos/GTK.pdf
+[15]: Cursos/ORMNN.png
+[16]: Cursos/ORMNODJANGO.png
+[17]: Cursos/css1.png
+[18]: Cursos/css2.png
+[19]: Cursos/css3.png
+[20]: Cursos/fundamentohtml.png
+[21]: Cursos/htmlbasico.png
+[22]: Cursos/javasriptintrodução.png
+[23]: Cursos/node.jsprimeirospassos.png
+[24]: Cursos/oqueehtml.png
+[25]: Cursos/oqueerestful.png
+[26]: Cursos/oqueédjango.png
+[27]: Cursos/oqueégit.png
+[28]: Cursos/oqueémvc.png
+[29]: Cursos/oqueépython.png
+[30]: Cursos/primeiroappdjango.png
+[31]: Cursos/testeunitario.png
+
+
 
 
 
