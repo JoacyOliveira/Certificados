@@ -29,25 +29,25 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 |  Udemy |  **Django with Chart JS**                       [⮚][9]  | 2.5 Horas           | ![][nota8]        |
 |  Udemy |  **Django,React e deploy AWS e linux**                       [⮚][10]  | 5.5 Horas           | ![][nota8]        |
 |  Udemy |  **Poderosas api com Django Rest**                       [⮚][11]  | 7 Horas           | ![][nota8]        |
-|  Udemy | ![][2] **Django 2.0 e deploy no heroku**                       [⮚][12]  | 7.5 Horas          | ![][nota8]        |
-|  AulaEAD | ![][2] **Git e GitHub**                       [⮚][13]  | 40 Horas           | ![][nota8]        |
-|  Udemy | ![][2] **Interface grafica com GTK e Glade**                       [⮚][14]  | 5.5 Horas          | ![][nota8]        |
-|  DEVMEDIA | ![][2] **ORM no DJANGO N:N**                       [⮚][15]  | 6 Horas           | ![][nota8]        |
-|  DEVMEDIA | ![][2] **ORM no DJANGO 1:N**                       [⮚][16]  | 6 Horas           | ![][nota8]        |
-|  DEVMEDIA | ![][2] **Css: Controlando tamanho das caixas**                       [⮚][17]  | 8 Horas           | ![][nota8]        |
-|  DEVMEDIA | ![][2] **Introdução ao CSS na pratica**                       [⮚][18]  | 17 Horas           | ![][nota8]        |
-|  DEVMEDIA | ![][2] **Introdução ao CSS na pratica**                       [⮚][19]  | 2 Horas           | ![][nota8]        |
-|  DEVMEDIA | ![][2] **Html Basico**                       [⮚][20]  | 13 Horas           | ![][nota8]        |
-|  DEVMEDIA | ![][2] **Introdução JavaScript**                       [⮚][21]  | 8 Horas           | ![][nota8]        |
-|  DEVMEDIA | ![][2] **Node.Js: Primeiros passos**                       [⮚][22]  | 6 Horas           | ![][nota8]        |
-|  DEVMEDIA | ![][2] **Oque é HTML**                       [⮚][23]  | 2 Horas           | ![][nota8]        |
-|  DEVMEDIA | ![][2] **Oque é RESTful**                       [⮚][24]  | 3 Horas           | ![][nota8]        |
-|  DEVMEDIA | ![][2] **Oque é Django**                       [⮚][25]  | 2 Horas           | ![][nota8]        |
-|  DEVMEDIA | ![][2] **Oque é Git**                       [⮚][26]  | 2 Horas           | ![][nota8]        |
-|  DEVMEDIA | ![][2] **Oque é MVC**                       [⮚][27]  | 2 Horas           | ![][nota8]        |
-|  DEVMEDIA | ![][2] **Oque é Python**                       [⮚][28]  | 2 Horas           | ![][nota8]        |
-|  DEVMEDIA | ![][2] **Primeira Aplicação Django**                       [⮚][29]  | 11 Horas           | ![][nota8]        |
-|  DEVMEDIA | ![][2] **Oque é Teste Unitario**                       [⮚][30]  | 4 Horas           | ![][nota8]        |
+|  Udemy |  **Django 2.0 e deploy no heroku**                       [⮚][12]  | 7.5 Horas          | ![][nota8]        |
+|  AulaEAD | ] **Git e GitHub**                       [⮚][13]  | 40 Horas           | ![][nota8]        |
+|  Udemy |  **Interface grafica com GTK e Glade**                       [⮚][14]  | 5.5 Horas          | ![][nota8]        |
+|  DEVMEDIA |  **ORM no DJANGO N:N**                       [⮚][15]  | 6 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **ORM no DJANGO 1:N**                       [⮚][16]  | 6 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Css: Controlando tamanho das caixas**                       [⮚][17]  | 8 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Introdução ao CSS na pratica**                       [⮚][18]  | 17 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Introdução ao CSS na pratica**                       [⮚][19]  | 2 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Html Basico**                       [⮚][20]  | 13 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Introdução JavaScript**                       [⮚][21]  | 8 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Node.Js: Primeiros passos**                       [⮚][22]  | 6 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Oque é HTML**                       [⮚][23]  | 2 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Oque é RESTful**                       [⮚][24]  | 3 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Oque é Django**                       [⮚][25]  | 2 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Oque é Git**                       [⮚][26]  | 2 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Oque é MVC**                       [⮚][27]  | 2 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Oque é Python**                       [⮚][28]  | 2 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Primeira Aplicação Django**                       [⮚][29]  | 11 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Oque é Teste Unitario**                       [⮚][30]  | 4 Horas           | ![][nota8]        |
 
 
 ## 🎲 Outros
