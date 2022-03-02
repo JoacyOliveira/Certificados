@@ -59,7 +59,7 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 |  Unipê  | **Apoio a inclusão Digital** [⮚][34] | Participou do projeto de extensão de apoio a inclusão digital | 216 Horas| 2020|
 |  Unipê  | **Webinar: GameDev Talk: empreendendo no mercado** [⮚][35] | Ouvinte da palestra webinar | 2 Horas | 2021|
 |  Unipê  | **Webinar: Engajamento** [⮚][36] | Ouvinte da palestra webinar | 2 Horas | 2020|
-|  Unipê  | **Webinar: Oportunidades do mercado de ti** [⮚][37] | Ouvinte da palestra webinar | 2 Horas | 2020|
+|  Unipê  | **Webinar: Oportunidades do mercado ti** [⮚][37] | Ouvinte da palestra webinar | 2 Horas | 2020|
 |  Unipê  | **Webinar: Resultados e desafios da automação de testes** [⮚][38] | Ouvinte da palestra webinar | 2 Horas | 2020|
 
 
