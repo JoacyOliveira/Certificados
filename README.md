@@ -52,9 +52,15 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 
 
 ## 🎲 Outros
-| Organização     | Nome                                                       | Descrição                                                                | Ano  |
-| --------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------| ---- |
-|  Fabrica de Software Unipê   | **Destaque - Squad Leader** [⮚][24]                           | Apoio à primeira missão aeroespacial na superfície solar (Sonda: Probe)  | 2021|
+| Organização     | Nome                                                       | Descrição                                                                | Horas | Ano  |
+| --------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------| ---- | ---- |
+|  Unipê  | **Fabrica de Softwarer** [⮚][32] | Participou do projeto de extensão fabrica de software na unipê | 216 Horas | | 2021|
+|  Unipê  | **Destaque - Squad Leader** [⮚][33] | Desempenhou papel de squad leader no desenvolvimeto do seu projeto | Não Possui | | 2021|
+|  Unipê  | **Apoio a inclusão Digital** [⮚][34] | Participou do projeto de extensão de apoio a inclusão digital | 216 Horas| 2020|
+|  Unipê  | **Webinar: GameDev Talk: empreendendo no mercado** [⮚][35] | Ouvinte da palestra webinar | 2 Horas | 2021|
+|  Unipê  | **Webinar: Engajamento** [⮚][36] | Ouvinte da palestra webinar | 2 Horas | 2020|
+|  Unipê  | **Webinar: Oportunidades do mercado de ti** [⮚][37] | Ouvinte da palestra webinar | 2 Horas | 2020|
+|  Unipê  | **Webinar: Resultados e desafios da automação de testes** [⮚][38] | Ouvinte da palestra webinar | 2 Horas | 2020|
 
 
 
@@ -93,6 +99,13 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 [29]: Cursos/oqueépython.png
 [30]: Cursos/primeiroappdjango.png
 [31]: Cursos/testeunitario.png
+[32]: Outros/06 - Destaque Equipes-4.pdf
+[33]: Outros/
+[34]: Outros/
+[35]: Outros/
+[36]: Outros/
+[37]: Outros/
+[38]: Outros/
 
 
 
