@@ -30,7 +30,7 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 |  Udemy |  **Django,React e deploy AWS e linux**                       [⮚][10]  | 5.5 Horas           | ![][nota8]        |
 |  Udemy |  **Poderosas api com Django Rest**                       [⮚][11]  | 7 Horas           | ![][nota8]        |
 |  Udemy |  **Django 2.0 e deploy no heroku**                       [⮚][12]  | 7.5 Horas          | ![][nota8]        |
-|  AulaEAD | ] **Git e GitHub**                       [⮚][13]  | 40 Horas           | ![][nota8]        |
+|  AulaEAD |  **Git e GitHub**                       [⮚][13]  | 40 Horas           | ![][nota8]        |
 |  Udemy |  **Interface grafica com GTK e Glade**                       [⮚][14]  | 5.5 Horas          | ![][nota8]        |
 |  DEVMEDIA |  **ORM no DJANGO N:N**                       [⮚][15]  | 6 Horas           | ![][nota8]        |
 |  DEVMEDIA |  **ORM no DJANGO 1:N**                       [⮚][16]  | 6 Horas           | ![][nota8]        |
@@ -54,13 +54,9 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 ## 🎲 Outros
 | Organização     | Nome                                                       | Descrição                                                                | Ano  |
 | --------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------| ---- |
-| ![][sNS] NASA   | **Hot Ticket**: ![][iUS] [⮚][24]                           | Apoio à primeira missão aeroespacial na superfície solar (Sonda: Probe)  | 2018 |
-| ![][sCP] CPS    | ![][i53] **MOOC: Online English** ![][iUS]     [⮚][53]   | Conteúdo programático de Inglês EAD                                      | 2020 |
-| ![][sNS] NASA   | **Bording Pass**:<br>Mars 2020 ![][iUS] [⮚][26]            | Apoio ao rover enviado para a superfície de marte em 2020                | 2019 |
-| ![][sNS] NASA   | **Bording Pass**:<br>Future Mars Mission ![][iUS] [⮚][42]  | Apoio à missão aeroespacial na superfície de marte em 2026               | 2020 |
-| ![][sUN] UNIVAP | **Grupo de Estudos**:<br>Ensino Médio [⮚][25]              | Certificado de monitoria nas matérias:<br>• Física<br>• Matemática       | 2017 |
-| ![][sUN] UNIVAP | **Grupo de Estudos**:<br>Ensino Médio [⮚][25]              | Certificado de monitoria nas matérias:<br>• Física<br>• Matemática       | 2018 |
-| ![][sUN] UNIVAP | **Grupo de Estudos**:<br>Ensino Médio [⮚][35]              | Certificado de monitoria na matéria:<br>• Química                        | 2019 |
+|  Fabrica de Software Unipê   | **Destaque - Squad Leader** [⮚][24]                           | Apoio à primeira missão aeroespacial na superfície solar (Sonda: Probe)  | 2021|
+
+
 
 
 
