@@ -19,16 +19,16 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 
 | Órgão emissor      | Curso                                                            | Carga horária      | Avaliação Pessoal |
 | ------------------ | ---------------------------------------------------------------- | ------------------ | ----------------- |
-|  DEVMEDIA | ![][2] **Python e Django**                       [⮚][2]  | 13 Horas           | ![][nota8]        |
-|  DEVMEDIA | ![][2] **Preparando o ambiente para Python com Django**                       [⮚][3]  | 4 Horas           | ![][nota8]        |
-|  Diego Mariano | ![][2] **Introdução ao banco de dados MYSQL**                       [⮚][4]  | 30 Minutos           | ![][nota8]        |
-|  DEVMEDIA | ![][2] **Curso Python**                       [⮚][5]  | 11 Horas           | ![][nota8]        |
-|  DEVMEDIA | ![][2] **Django admin: criando aplicação web completa**                       [⮚][6]  | 16 Horas           | ![][nota8]        |
-|  Udemy | ![][2] **Django 2.0 Avanado**                       [⮚][7]  | 18 Horas           | ![][nota8]        |
-|  DEVMEDIA | ![][2] **Introdução ao Django Admin**                       [⮚][8]  | 13 Horas           | ![][nota8]        |
-|  Udemy | ![][2] **Django with Chart JS**                       [⮚][9]  | 2.5 Horas           | ![][nota8]        |
-|  Udemy | ![][2] **Django,React e deploy AWS e linux**                       [⮚][10]  | 5.5 Horas           | ![][nota8]        |
-|  Udemy | ![][2] **Poderosas api com Django Rest**                       [⮚][11]  | 7 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Python e Django**                       [⮚][2]  | 13 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Preparando o ambiente para Python com Django**                       [⮚][3]  | 4 Horas           | ![][nota8]        |
+|  Diego Mariano |  **Introdução ao banco de dados MYSQL**                       [⮚][4]  | 30 Minutos           | ![][nota8]        |
+|  DEVMEDIA |  **Curso Python**                       [⮚][5]  | 11 Horas           | ![][nota8]        |
+|  DEVMEDIA |  **Django admin: criando aplicação web completa**                       [⮚][6]  | 16 Horas           | ![][nota8]        |
+|  Udemy |  **Django 2.0 Avanado**                       [⮚][7]  | 18 Horas           | ![][nota8]        |
+|  DEVMEDIA  **Introdução ao Django Admin**                       [⮚][8]  | 13 Horas           | ![][nota8]        |
+|  Udemy |  **Django with Chart JS**                       [⮚][9]  | 2.5 Horas           | ![][nota8]        |
+|  Udemy |  **Django,React e deploy AWS e linux**                       [⮚][10]  | 5.5 Horas           | ![][nota8]        |
+|  Udemy |  **Poderosas api com Django Rest**                       [⮚][11]  | 7 Horas           | ![][nota8]        |
 |  Udemy | ![][2] **Django 2.0 e deploy no heroku**                       [⮚][12]  | 7.5 Horas          | ![][nota8]        |
 |  AulaEAD | ![][2] **Git e GitHub**                       [⮚][13]  | 40 Horas           | ![][nota8]        |
 |  Udemy | ![][2] **Interface grafica com GTK e Glade**                       [⮚][14]  | 5.5 Horas          | ![][nota8]        |
