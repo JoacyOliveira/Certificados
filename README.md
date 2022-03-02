@@ -66,91 +66,22 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 <!-- -=- # --- REFERÊNCIAS --- # -=- -->
 <!-- Links/Certificados -->
 [1]: Academico/Diploma.PDF
-[2]: !%20Palestras/JugVale%20-%20Java.pdf
-[3]: !%20Academias%20e%20Oficinas/Saga%20-%20Modelagem%203D.pdf
-[4]: !%20Academias%20e%20Oficinas/Softblue%20-%20Java.pdf
-[5]: !%20Academias%20e%20Oficinas/Softblue%20-%20PHP.pdf
-[6]: Ciência%20da%20Computação/Geral/TreinaWeb%20-%20Lógica%20Programação.pdf
-[7]: Ciência%20da%20Computação/Geral/TreinaWeb%20-%20Lógica%20POO.pdf
-[8]: Ciência%20da%20Computação/HTML5%20e%20CSS3/TreinaWeb%20-%20Web%20(basico).pdf
-[9]: Ciência%20da%20Computação/HTML5%20e%20CSS3/TreinaWeb%20-%20Web%20(avançado).pdf
-[10]: Ciência%20da%20Computação/JavaScript/SoloLearn%20-%20JavaScript.pdf
-[11]: Ciência%20da%20Computação/JavaScript/TreinaWeb%20-%20JavaScript%20(básico).pdf
-[12]: Ciência%20da%20Computação/JavaScript/TreinaWeb%20-%20JavaScript%20(intermediário).pdf
-[13]: Ciência%20da%20Computação/Java/SoloLearn%20-%20Java.pdf
-[14]: Ciência%20da%20Computação/Java/Curso%20em%20Vídeo%20-%20Curso%20de%20Java.pdf
-[15]: Ciência%20da%20Computação/Java/TreinaWeb%20-%20Java%2010%20POO.pdf
-[16]: Ciência%20da%20Computação/Office/MVA%20-%20Office%20365.pdf
-[17]: Ciência%20da%20Computação/Geral/C%20O%20D%20E%20-%20Hour%20of%20code.pdf
-[18]: Ciência%20da%20Computação/Regex/TreinaWeb%20-%20Regex.pdf
-[19]: Ciência%20da%20Computação/JavaScript/TreinaWeb%20-%20JavaScript%20(avançado).pdf
-[20]: Ciência%20da%20Computação/Python/SoloLearn%20-%20Python.pdf
-[21]: !%20Palestras/SEAU%20-%20Aprovação%20Projetos%20(SJC).pdf
-[22]: !%20Palestras/SEAU%20-%20Usinagem%20Aeroespacial.pdf
-[23]: !%20Palestras/SEAU%20-%20Segurança%20da%20Informação.pdf
-[24]: Miscelânea/Nasa%20-%20Hot%20Ticket.pdf
-[25]: Miscelânea/Certificado-Monitoria-2017-2018.pdf
-[26]: Miscelânea/Nasa%20-%20Mars%202020.pdf
-[27]: !%20Palestras/JugVale%2014%20-%20Java.pdf
-[28]: Eletrônica/Introducao-Arduino.pdf
-[29]: !%20Acadêmico/INICJr-participacao.pdf
-[30]: !%20Acadêmico/INICJr-aceito-1.pdf
-[31]: !%20Acadêmico/INICJr-aceito-2.pdf
-[32]: !%20Acadêmico/Educador-Duolingo.pdf
-[33]: Biomedicina/Suporte%20Básico%20de%20Vida%20(SBV%20-%20BLS).pdf
-[33c]: Biomedicina/Basic%20Life%20Support%20(BLS)%20ID%20Card.pdf
-[34]: !%20Palestras/SEAU%20-%20Trabalho%20de%20engenheiro%20biomédico.pdf
-[35]: Miscelânea/Certificado-Monitoria-2019.pdf
-[36]: !%20Acadêmico/Univap%20-%20EM.pdf
-[37]: !%20Acadêmico/Univap%20-%20Aluno%20Destaque.pdf
-[38]: Ciência%20da%20Computação/Geral/TreinaWeb%20-%20NPM.pdf
-[39]: Ciência%20da%20Computação/Geral/TreinaWeb%20-%20UI%20UX.pdf
-[40]: Ciência%20da%20Computação/Geral/TreinaWeb%20-%20Git%20e%20Github.pdf
-[41]: Ciência%20da%20Computação/HTML5%20e%20CSS3/TreinaWeb%20-%20CSS%20-%20Sass.pdf
-[42]: Miscelânea/Nasa%20-%20Future%20Mars%20Mission.pdf
+[2]: Certificados/Acessodadosdjango.png
+[3]: Certificados/
+[4]: Certificados/
+[5]: Certificados/
+[6]: Certificados/
+[7]: Certificados/
+[8]: Certificados/
+[9]: Certificados/
+[10]: Certificados/
 
-[43]: Biomedicina/Palestra%20-%20CRBM4.pdf
-[44]: Biomedicina/Simpósio%20-%20ABNc.pdf
-[45]: Biomedicina/UNIEURO%202020.pdf
-[46]: Biomedicina/LANF/AVE.pdf
-[47]: Biomedicina/LANF/Tratamento%20AVE.pdf
-[48]: Biomedicina/LANF/Sequelas%20AVE.pdf
-[49]: Biomedicina/LANF/Espasticidade.pdf
-[50]: !%20Palestras/INIC%20WEBINAR%20-%20Técnica%20de%20Caraterização%20-%20Microscopia%20Eletrônica%20de%20Varredura.pdf
-[51]: !%20Palestras/Rocketseat%20-%20Do%20While%202020.pdf
-[52]: !%20Acadêmico/INIC-apresentado-1.pdf
-[53]: !%20Acadêmico/MOOC%20-%20INGLES.pdf
 
-<!-- Competições e Maratonas -->
-[m1]: https://www1.univap.br/wagner/Olimp2017.zip
-[m2]: !%20Maratonas%20e%20Competições/Classificação-OPC2017.pdf
-[m3]: !%20Maratonas%20e%20Competições/Certificado-OPC2018.pdf
-[m4]: !%20Maratonas%20e%20Competições/Certificado-Maratona-2017.pdf
-[m5]: https://web.univap.br/maratona_programacao/edicoes_anteriores/2018/ranking_junior.php
-[m6]: !%20Maratonas%20e%20Competições/Certificado-Maratona-2019.pdf
-[m7]: !%20Maratonas%20e%20Competições/Certificado-OPC2019.pdf
+
 
 <!-- Selo de organizações -->
 [sTW]: i/treina_web19.png "TreinaWeb"
-[sSL]: i/solo_learn19.png "SoloLearn"
-[sCD]: i/code19.png "C O D E"
-[sCV]: i/cursoemvideo19.png "Curso em Vídeo"
-[sMS]: i/microsoft19.png "Microsoft"
-[sSG]: i/saga19.png "Saga"
-[sSB]: i/softblue19.png "Softblue"
-[sJG]: i/jug19.png "JugVale"
-[sNS]: i/nasa19.png "NASA"
-[sFE]: i/feau19.png "FEAU"
-[sUN]: i/univap19.png "Univap"
-[sLU]: i/lumina19.png "Lúmina"
-[sIJ]: i/inic19.png "INIC Jr."
-[sPM]: i/pim19.png "Postgraduate Institute for Medicine"
-[sDG]: i/duolingo19.png "Duolingo"
-[sRS]: i/rocketseat19.png "Rocketseat"
-[sCP]: i/cps19.png "CPS"
-[sGV]: i/gov19.png "CRBM 4"
-[sUE]: i/unieuro19.png "Unieuro"
-[sAB]: i/ABNc.png "ABNc"
+
 
 <!-- Idiomas (exceto português) -->
 [iUS]: i/us19.png "Idioma do curso: Inglês"
