@@ -38,7 +38,16 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 |  DEVMEDIA | ![][2] **Introdução ao CSS na pratica**                       [⮚][18]  | 17 Horas           | ![][nota8]        |
 |  DEVMEDIA | ![][2] **Introdução ao CSS na pratica**                       [⮚][19]  | 2 Horas           | ![][nota8]        |
 |  DEVMEDIA | ![][2] **Html Basico**                       [⮚][20]  | 13 Horas           | ![][nota8]        |
-
+|  DEVMEDIA | ![][2] **Introdução JavaScript**                       [⮚][21]  | 8 Horas           | ![][nota8]        |
+|  DEVMEDIA | ![][2] **Node.Js: Primeiros passos**                       [⮚][22]  | 6 Horas           | ![][nota8]        |
+|  DEVMEDIA | ![][2] **Oque é HTML**                       [⮚][23]  | 2 Horas           | ![][nota8]        |
+|  DEVMEDIA | ![][2] **Oque é RESTful**                       [⮚][24]  | 3 Horas           | ![][nota8]        |
+|  DEVMEDIA | ![][2] **Oque é Django**                       [⮚][25]  | 2 Horas           | ![][nota8]        |
+|  DEVMEDIA | ![][2] **Oque é Git**                       [⮚][26]  | 2 Horas           | ![][nota8]        |
+|  DEVMEDIA | ![][2] **Oque é MVC**                       [⮚][27]  | 2 Horas           | ![][nota8]        |
+|  DEVMEDIA | ![][2] **Oque é Python**                       [⮚][28]  | 2 Horas           | ![][nota8]        |
+|  DEVMEDIA | ![][2] **Primeira Aplicação Django**                       [⮚][29]  | 11 Horas           | ![][nota8]        |
+|  DEVMEDIA | ![][2] **Oque é Teste Unitario**                       [⮚][30]  | 4 Horas           | ![][nota8]        |
 
 
 ## 🎲 Outros
