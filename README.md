@@ -14,7 +14,7 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 
 ## 🎓 Cursos 
 • `Avaliação Pessoal`: ***minha** opinião sobre o curso ou palestra*;   
-• Coloque o mouse em cima do ícone ![][iINFO] para obter informações sobre os módulos estudados.
+• Coloque o mouse em cima do ícone [⮚] para obter informações sobre os módulos estudados.
 ### 🧑‍💻 Computação/TI
 
 | Órgão emissor      | Curso                                                            | Carga horária      | Avaliação Pessoal |
