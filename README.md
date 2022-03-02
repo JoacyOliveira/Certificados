@@ -54,8 +54,8 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 ## 🎲 Outros
 | Organização     | Nome                                                       | Descrição                                                                | Horas | Ano  |
 | --------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------| ---- | ---- |
-|  Unipê  | **Fabrica de Softwarer** [⮚][32] | Participou do projeto de extensão fabrica de software na unipê | 216 Horas | | 2021|
-|  Unipê  | **Destaque - Squad Leader** [⮚][33] | Desempenhou papel de squad leader no desenvolvimeto do seu projeto | Não Possui | | 2021|
+|  Unipê  | **Fabrica de Softwarer** [⮚][32] | Participou do projeto de extensão fabrica de software na unipê | 216 Horas |  2021|
+|  Unipê  | **Destaque - Squad Leader** [⮚][33] | Desempenhou papel de squad leader no desenvolvimeto do seu projeto | Não Possui |  2021|
 |  Unipê  | **Apoio a inclusão Digital** [⮚][34] | Participou do projeto de extensão de apoio a inclusão digital | 216 Horas| 2020|
 |  Unipê  | **Webinar: GameDev Talk: empreendendo no mercado** [⮚][35] | Ouvinte da palestra webinar | 2 Horas | 2021|
 |  Unipê  | **Webinar: Engajamento** [⮚][36] | Ouvinte da palestra webinar | 2 Horas | 2020|
@@ -99,13 +99,13 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 [29]: Cursos/oqueépython.png
 [30]: Cursos/primeiroappdjango.png
 [31]: Cursos/testeunitario.png
-[32]: Outros/06 - Destaque Equipes-4.pdf
-[33]: Outros/
-[34]: Outros/
-[35]: Outros/
-[36]: Outros/
-[37]: Outros/
-[38]: Outros/
+[32]: Outros/CertificadosdeExtensão.pdf
+[33]: Outros/DestaqueEquipes.pdf
+[34]: Outros/CertificadosPEEX2020.pdf
+[35]: Outros/CertificadosDeEventos.pdf
+[36]: Outros/Webinares%20Unipê2020.pdf
+[37]: Outros/Webinares%20UbtechTI20201.pdf
+[38]: Outros/Webinares%20UbtechTI2020.pdf
 
 
 
