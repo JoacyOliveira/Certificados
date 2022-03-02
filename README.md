@@ -27,6 +27,18 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 |  Udemy | ![][2] **Django 2.0 Avanado**                       [⮚][7]  | 18 Horas           | ![][nota8]        |
 |  DEVMEDIA | ![][2] **Introdução ao Django Admin**                       [⮚][8]  | 13 Horas           | ![][nota8]        |
 |  Udemy | ![][2] **Django with Chart JS**                       [⮚][9]  | 2.5 Horas           | ![][nota8]        |
+|  Udemy | ![][2] **Django,React e deploy AWS e linux**                       [⮚][10]  | 5.5 Horas           | ![][nota8]        |
+|  Udemy | ![][2] **Poderosas api com Django Rest**                       [⮚][11]  | 7 Horas           | ![][nota8]        |
+|  Udemy | ![][2] **Django 2.0 e deploy no heroku**                       [⮚][12]  | 7.5 Horas          | ![][nota8]        |
+|  AulaEAD | ![][2] **Git e GitHub**                       [⮚][13]  | 40 Horas           | ![][nota8]        |
+|  Udemy | ![][2] **Interface grafica com GTK e Glade**                       [⮚][14]  | 5.5 Horas          | ![][nota8]        |
+|  DEVMEDIA | ![][2] **ORM no DJANGO N:N**                       [⮚][15]  | 6 Horas           | ![][nota8]        |
+|  DEVMEDIA | ![][2] **ORM no DJANGO 1:N**                       [⮚][16]  | 6 Horas           | ![][nota8]        |
+|  DEVMEDIA | ![][2] **Css: Controlando tamanho das caixas**                       [⮚][17]  | 8 Horas           | ![][nota8]        |
+|  DEVMEDIA | ![][2] **Introdução ao CSS na pratica**                       [⮚][18]  | 17 Horas           | ![][nota8]        |
+|  DEVMEDIA | ![][2] **Introdução ao CSS na pratica**                       [⮚][19]  | 2 Horas           | ![][nota8]        |
+|  DEVMEDIA | ![][2] **Html Basico**                       [⮚][20]  | 13 Horas           | ![][nota8]        |
+
 
 
 ## 🎲 Outros
