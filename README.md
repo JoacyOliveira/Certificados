@@ -54,7 +54,7 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 ## 🎲 Outros
 | Organização     | Nome                                                       | Descrição                                                                | Horas | Ano  |
 | --------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------| ---- | ---- |
-|  Unipê  | **Fabrica de Softwarer** [⮚][32] | Participou do projeto de extensão fabrica de software na unipê | 216 Horas |  2021|
+|  Unipê  | **Fabrica de Software** [⮚][32] | Participou do projeto de extensão fabrica de software na unipê | 216 Horas |  2021|
 |  Unipê  | **Destaque - Squad Leader** [⮚][33] | Desempenhou papel de squad leader no desenvolvimeto do seu projeto | Não Possui |  2021|
 |  Unipê  | **Apoio a inclusão Digital** [⮚][34] | Participou do projeto de extensão de apoio a inclusão digital | 216 Horas| 2020|
 |  Unipê  | **Webinar: GameDev Talk: empreendendo no mercado** [⮚][35] | Ouvinte da palestra webinar | 2 Horas | 2021|
